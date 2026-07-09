@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529922133463",
+    "project_id": "careplan-cg",
+    "storage_bucket": "careplan-cg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529922133463:android:6812f1b56da7de66960f92",
+        "android_client_info": {
+          "package_name": "com.example.careplan_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529922133463-j9qn557n1865avb7mo0qhfq2v4po2o29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClB94wE92CeSmZ2eGtUy147nYKRJkvaa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529922133463-j9qn557n1865avb7mo0qhfq2v4po2o29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
